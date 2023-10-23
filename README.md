@@ -1,5 +1,5 @@
 ### Hi there 👋, Million Here.
-A 4th year software engineering student at Addis Ababa University (Arteficial Intellegence Stream).
+A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
 - A Group 42 Africa to Silicon Valley (A2SV) member.
 - 🌱 Currently studying machine learning.
 
