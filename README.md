@@ -30,9 +30,9 @@
     I solve problems on leetcode as a hobby.
   </li>
 </ul>
----
+<br/>
+<h2>:hammer_and_wrench: Languages and Tools</h2>
 
-## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
