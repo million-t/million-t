@@ -18,9 +18,24 @@
 </div>
 <h2>About Me</h2>
 <h1>Hi there 👋, Million here.</h1>
-A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
-- A group 42 Africa to Silicon Valley (A2SV) member.
-- 🌱 Currently studying machine learning.
+
+
+<ul>
+  A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
+  <li>
+    A group 42 Africa to Silicon Valley (A2SV) member.
+  </li>
+  <li>
+    Currently studying machine learning.
+  </li>
+  <li>
+    I solve problems on leetcode as a hobby.
+  </li>
+</ul>
+
+---
+
+### :fire: My Stats :
 
 <!--
 **million-t/million-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
