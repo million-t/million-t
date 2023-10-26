@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/million-tolessa/">
+  <a href="https://www.linkedin.com/in/million-tolessa/" target="_blank"  style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/Million_/">
+  <a href="https://leetcode.com/Million_/" target="_blank"  style="text-decoration:none">
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
   </a>
-  <a href="https://codeforces.com/profile/sterlin">
+  <a href="https://codeforces.com/profile/sterlin" target="_blank"  style="text-decoration:none">
     <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="codeforces Badge"/>
   </a>
 </div>
