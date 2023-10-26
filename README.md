@@ -16,8 +16,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
-## About Me
-### Hi there 👋, Million here.
+<h2>About Me</h2>
+<h1>Hi there 👋, Million here.</h1>
 A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
 - A group 42 Africa to Silicon Valley (A2SV) member.
 - 🌱 Currently studying machine learning.
