@@ -2,6 +2,15 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/million-tolessa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/Million_/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
+  </a>
+</div>
+
 ## About Me
 ### Hi there 👋, Million here.
 A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
