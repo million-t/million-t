@@ -21,7 +21,9 @@
 
 
 <ul>
-  A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
+  <li>
+    A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
+  </li>
   <li>
     A group 42 Africa to Silicon Valley (A2SV) member.
   </li>
@@ -36,6 +38,7 @@
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **million-t/million-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
