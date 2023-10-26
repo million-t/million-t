@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/million-tolessa/">
