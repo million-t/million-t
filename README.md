@@ -16,21 +16,7 @@
 <h2>About Me</h2>
 <h3>Hi there 👋, Million here.</h3>
 
-<ul>
-  <li>
-    A 4th year software engineering student at Addis Ababa University (Artificial Intellegence Stream).
-  </li>
-  <li>
-    A group 42 Africa to Silicon Valley (A2SV) member.
-  </li>
-  <li>
-    Currently studying machine learning.
-  </li>
-  <li>
-    I solve problems on leetcode as a hobby.
-  </li>
-</ul>
-<br/>
+
 
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
