@@ -13,8 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
-<h2>About Me</h2>
-<h3>Hi there 👋, Million here.</h3>
+
 
 
 
