@@ -1,5 +1,7 @@
-
-<div id="badges" align="center" width="495px">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/million-tolessa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,15 +12,13 @@
     <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="codeforces Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495" style="max-height: 200px;" alt="Top Languages" />
 </div>
 
 <!--
