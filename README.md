@@ -14,9 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center" >
+<div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=4950" alt="Top Languages" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495" alt="Top Languages" />
 </div>
 
 <!--
