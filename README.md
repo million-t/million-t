@@ -20,7 +20,7 @@
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula)](https://git.io/streak-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
