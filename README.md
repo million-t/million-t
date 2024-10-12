@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" style=" margin-top: 20px;" >
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
 </div>
 <div align="center">
