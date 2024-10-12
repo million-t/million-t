@@ -14,17 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
- 
 <div align="center">
-  
-<a href="https://git.io/streak-stats" target="_blank">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=420" alt="Top Languages" />
-  </a>
 </div>
 
 <!--
