@@ -26,7 +26,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="495"  />
     
 </div>
-  <div align="center" style="display: flex; justify-content: center; gap: 0px; style="width: 495px;"">
+  <div align="center" style="display: flex; justify-content: center; gap: 0px; width: 495px;">
     <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"   height="230"/>
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="300" " />
   </div>
