@@ -8,7 +8,7 @@
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
     <!-- Right content with black background -->
-    <div style="display: inline-flex; flex-direction: column; align-items: center; gap: 10px; background-color: black; padding: 15px; border-radius: 8px;">
+    <apan>
         <!-- Profile view badge -->
 <!--         <div align="center">
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
@@ -27,7 +27,7 @@
         </div> -->
         <!-- Activity graph -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="300" />
-    </div>
+    </span>
 </div>
 
 
