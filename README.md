@@ -10,9 +10,9 @@
     <!-- Right content with black background -->
     <apan>
         <!-- Profile view badge -->
-        <div align="center">
+        <span align="center">
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
-        </div>
+        </span>
         <!-- Social badges -->
 <!--         <div id="badges" align="center" style="width: 290px;">
             <a href="https://www.linkedin.com/in/million-tolessa/">
