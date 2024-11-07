@@ -26,13 +26,13 @@
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=240"  alt="Top Languages" />
     <!-- Right content with black background -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" width="540"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="540"/>
     
 </div>
 
   
 <div align="right" style="display: flex; justify-content: center; gap: 0px; width: 640;">
-  <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"   height="320"/>
+  <img src="https://leetcode.card.workers.dev/JacobLinCool?theme=nord&font=source_code_pro&&extension=activity"   height="320"/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="420"/>
 </div>
 
