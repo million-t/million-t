@@ -1,9 +1,9 @@
 
 
-<div align="center">
+<div align="center" style="position: relative; text-align: center;">
         <!-- Profile view badge -->
-        <span align="center" >
-            <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
+        <span style="position: absolute; top: 100%; left: 50%; transform: translateX(-50%); margin-top: 10px;">
+                <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
         </span>
         <!-- Social badges -->
         <div id="badges" align="center" style="width: 290px;">
