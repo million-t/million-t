@@ -27,7 +27,7 @@
      <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula"  alt="GitHub Streak" />    
 </div>
 <div align="right" >
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" width="540"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" />
 </div>
  <!-- 
 <div align="right" style="display: flex; justify-content: center; gap: 0px; width: 640;">
