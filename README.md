@@ -6,7 +6,7 @@
                 <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
         </span>
         <!-- Social badges -->
-        <div id="badges" align="center" style="width: 290px;">
+        <div id="badges" align="right" style="width: 290px;">
             <a href="https://www.linkedin.com/in/million-tolessa/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
