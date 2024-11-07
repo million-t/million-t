@@ -23,14 +23,13 @@
 
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="400" height="100" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="800" height="200" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/sterlin" width="400" height="200" />
   </div>
   <div align="center">
 <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"/>
   </div>
   <div align="center">
-
- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/sterlin)
 
   </div>
 
