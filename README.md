@@ -32,7 +32,7 @@
 
   
 <div align="right" style="display: flex; justify-content: center; gap: 0px; width: 640;">
-  <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"   height="310"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="430"/>
+  <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"   height="320"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="420"/>
 </div>
 
