@@ -1,4 +1,13 @@
-<div align="center">
+
+
+
+<div align="center" style="margin-top: 20px;" >
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
+  <div>
+    <div align="center">
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="badges" align="center">
@@ -12,14 +21,9 @@
     <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="codeforces Badge"/>
   </a>
 </div>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="300" />
+  </div>
 
-
-<div align="center" style="margin-top: 20px;" >
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
-</div>
-<div align="center" style="display: flex; justify-content: center; gap: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="300" />
 </div>
   
 <div align="center" style="display: flex; justify-content: center; gap: 0px; width: 495px;">
