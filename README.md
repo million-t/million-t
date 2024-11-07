@@ -23,23 +23,14 @@
 
 
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=million-t&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=million-t&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night"/>
   </div>
-
-### Leetcode
   <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/Million_?theme=auto&font=baloo&extension=null)
-
+  [![LeetCode Stats](https://leetcode.card.workers.dev/Million_?theme=auto&font=baloo&extension=null)](https://leetcode.card.workers.dev/Million_?theme=nord&font=&extension=activity)
   </div>
-
-  ### Codeforces
   <div align="center">
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sterlin)
+ [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/sterlin)
 
   </div>
 <!--
