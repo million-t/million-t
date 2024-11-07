@@ -21,16 +21,27 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495" style="max-height: 200px;" alt="Top Languages" />
 </div>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+
   <div align="center">
     ![](https://github-readme-stats.vercel.app/api?username=million-t&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=million-t&theme=tokyonight&hide_border=false)<br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night)
   </div>
-</details>
 
+### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Million_?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+  ### Codeforces
+  <div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sterlin)
+
+  </div>
 <!--
 **million-t/million-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
