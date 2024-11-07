@@ -26,7 +26,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night"/>
   </div>
   <div align="center">
-<img src="![LeetCode Stats](https://leetcode.card.workers.dev/Million_?theme=nord&font=&extension=null)"/>
+<img src="https://leetcode.card.workers.dev/Million_?theme=nord&extension=activity"/>
   </div>
   <div align="center">
 
