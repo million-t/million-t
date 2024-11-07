@@ -22,8 +22,8 @@
 </div>
 
 
-  <div align="center" style="max-width: 200px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night"/>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="200" height="50" />
   </div>
   <div align="center">
 <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"/>
@@ -33,17 +33,4 @@
  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/sterlin)
 
   </div>
-<!--
-**million-t/million-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
