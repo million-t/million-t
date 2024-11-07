@@ -31,7 +31,7 @@
 </div>
 
   
-<div align="right" style="display: flex; justify-content: center; gap: 0px; width: 495px;">
+<div align="right" style="display: flex; justify-content: center; gap: 0px; width: 600px;">
   <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"   height="228"/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="300" " />
 </div>
