@@ -8,9 +8,9 @@
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
     <!-- Right content with black background -->
-    <span >
+    <span align="center"  style="display: inline-block;" >
         <!-- Profile view badge -->
-        <span align="center" style="display: inline-block;">
+        <span align="center" >
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
         </span>
         <!-- Social badges -->
