@@ -22,8 +22,8 @@
 </div>
 
 
-  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="500" height="200" />
+  <div align="center" style="display: flex; justify-content: center; gap: 2px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="500" height=auto />
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=github_dark&disable_animations=false&show_icons=true&force_username=false" width="400" height="200" />
 </div>
   <div align="center">
