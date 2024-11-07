@@ -22,7 +22,7 @@
 </div>
 
 
-  <div align="center">
+  <div align="center" style="max-width: 200px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night"/>
   </div>
   <div align="center">
