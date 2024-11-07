@@ -1,6 +1,6 @@
 
 
-<span align="center"  style="display: block;" >
+<div align="center">
         <!-- Profile view badge -->
         <span align="center" >
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
@@ -17,9 +17,7 @@
                 <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="Codeforces Badge"/>
             </a>
         </div>
-        <!-- Activity graph -->
-        
-    </span>
+</div>
 
 <div align="center" style="display: flex; justify-content: center;">
     <!-- Left image -->
