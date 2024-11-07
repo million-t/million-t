@@ -23,7 +23,7 @@
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula"  alt="Top Languages" />
     <!-- Right content with black background -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="450"/>
     
 </div>
 <div align="center" style="margin-top: 20px;" >
