@@ -10,9 +10,9 @@
     <!-- Right content with black background -->
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; background-color: black; padding: 15px; border-radius: 8px;">
         <!-- Profile view badge -->
-        <div align="center">
+<!--         <div align="center">
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
-        </div>
+        </div> -->
         <!-- Social badges -->
 <!--         <div id="badges" align="center" style="width: 290px;">
             <a href="https://www.linkedin.com/in/million-tolessa/">
