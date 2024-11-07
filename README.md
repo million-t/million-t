@@ -18,7 +18,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=495" style="max-height: 200px;" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="495" />
 </div>
   
