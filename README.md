@@ -14,7 +14,7 @@
                 <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge" />
             </a>
             <a href="https://codeforces.com/profile/sterlin">
-                <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="Codeforces Badge"/>
+                <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" width="100" alt="Codeforces Badge"/>
             </a>
         </div>
 </div>
