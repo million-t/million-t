@@ -10,7 +10,7 @@
     <div align="center">
   <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="center" width="290">
   <a href="https://www.linkedin.com/in/million-tolessa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
