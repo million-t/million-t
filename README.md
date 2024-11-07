@@ -23,7 +23,7 @@
 
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="200" height="50" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="400" height="100" />
   </div>
   <div align="center">
 <img src="https://leetcode.card.workers.dev/Million_?theme=auto&extension=activity"/>
