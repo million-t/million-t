@@ -1,6 +1,6 @@
 
 
-<div align="center" style="position: relative; text-align: center;">
+<div align="right" style="position: relative; text-align: center;">
         <!-- Profile view badge -->
         <span style="position: absolute; top: 100%; left: 50%; transform: translateX(-50%); margin-top: 10px;">
                 <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
