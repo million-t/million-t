@@ -18,21 +18,19 @@
             </a>
         </div>
 </div>
-<div align="right" style="margin-top: 20px;" >
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula"  alt="GitHub Streak" />
-</div>
+
 
 <div align="right" style="display: flex; justify-content: center;">
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=240"  alt="Top Languages" />
     <!-- Right content with black background -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" width="540"/>
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula"  alt="GitHub Streak" />
     
 </div>
-
-  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" width="540"/>
+ <!-- 
 <div align="right" style="display: flex; justify-content: center; gap: 0px; width: 640;">
   <img src="https://leetcode.card.workers.dev/Million_?theme=dark&font=baloo&&extension=activity"   height="320"/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sterlin&theme=dark_lc&disable_animations=false&show_icons=true&force_username=false" width="420"/>
 </div>
-
+-->
