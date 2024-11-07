@@ -24,7 +24,7 @@
 
 <div align="right" style="display: flex; justify-content: center;">
     <!-- Left image -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200"  alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=240"  alt="Top Languages" />
     <!-- Right content with black background -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="520"/>
     
