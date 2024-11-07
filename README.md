@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/Million_/">
-    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge" width="50" />
   </a>
   <a href="https://codeforces.com/profile/sterlin">
     <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" alt="codeforces Badge"/>
