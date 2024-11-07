@@ -4,17 +4,17 @@
 <div align="center" style="margin-top: 20px;" >
     <img src="http://github-readme-streak-stats.herokuapp.com?user=million-t&theme=dracula" alt="GitHub Streak" />
 </div>
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <!-- Left image -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula&card_width=200" style="max-height: 200px;" alt="Top Languages" />
-    <!-- Right content -->
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <!-- Right content with black background -->
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; background-color: black; padding: 15px; border-radius: 8px;">
         <!-- Profile view badge -->
         <div align="center">
             <img src="https://komarev.com/ghpvc/?username=million-t&style=flat-square&color=blue" alt="Profile Views"/>
         </div>
         <!-- Social badges -->
-        <div id="badges" align="center" >
+        <div id="badges" align="center" style="width: 290px;">
             <a href="https://www.linkedin.com/in/million-tolessa/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
@@ -29,6 +29,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=tokyo-night" width="300" />
     </div>
 </div>
+
 
   
 <div align="center" style="display: flex; justify-content: center; gap: 0px; width: 495px;">
