@@ -8,13 +8,13 @@
         <!-- Social badges -->
         <div id="badges" align="right" style="width: 280px;">
             <a href="https://www.linkedin.com/in/million-tolessa/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="110" alt="LinkedIn Badge"/>
             </a>
             <a href="https://leetcode.com/Million_/">
-                <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge" />
+                <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" width="110" alt="Leetcode Badge" />
             </a>
             <a href="https://codeforces.com/profile/sterlin">
-                <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" width="100" alt="Codeforces Badge"/>
+                <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=blue" width="110" alt="Codeforces Badge"/>
             </a>
         </div>
 </div>
