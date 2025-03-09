@@ -26,9 +26,9 @@
     <!-- Right content with black background -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-t&layout=compact&theme=dracula" width="346"  alt="Top Languages" />
 </div>
-<div align="right" >
+<!-- <div align="right" >
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=million-t&theme=github-compact" />
-</div>
+</div> -->
  <!-- 
 <div align="right" style="display: flex; justify-content: center; gap: 0px; width: 640;">
   <img src="https://leetcode.card.workers.dev/Million_?theme=dark&font=baloo&&extension=activity"   height="320"/>
